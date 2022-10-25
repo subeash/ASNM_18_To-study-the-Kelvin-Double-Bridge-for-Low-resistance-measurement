@@ -1,6 +1,2 @@
 ## Objective
-- To identify the geometric relationship between input and output motion parameters of Movemaster RM-501 robotic arm.
-- Formation of the transformation matrix though which a relationship is established between different links of the manipulator.
-- To have a brief idea about the workspace through a 3D graph plot of manipulator position for various inputs.
-- Simulate the robot motion for various inputs of the joint angular value.
-- Robot Trajectory Visualization while moving from one position to another .
+ Kelvin's double bridge may be used for precision mesurement of four-terminal low resistances. Four terminal resistors have two current leading terminals and two potential terminals across which the resistance equals the marked nominal value. This is because, the current must enter and leave the resistor in a fashion that there is same or equivalent distribution of current density between the particular equipotent surfaces used to define the resistance. The additional points also eliminated any contact resistance at the current lead-in terminals.
