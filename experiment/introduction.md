@@ -5,5 +5,5 @@
 
 ![Rm501 Figure](images/ckt.jpg)
 
-***Figure 1: MOVEMASTER RM-501***
+***Figure 1:Schematic diagram for measurement of low resistance by Kelvin double bridge***
 </p>
