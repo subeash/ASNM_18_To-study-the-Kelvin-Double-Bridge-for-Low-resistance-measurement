@@ -1,1 +1,1 @@
-#  Forward Kinematics of Movemaster RM-501  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/iitkgp.png" width="3%" />
+#  To study the Kelvin Double Bridge for Low resistance measurement  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/iitkgp.png" width="3%" />
